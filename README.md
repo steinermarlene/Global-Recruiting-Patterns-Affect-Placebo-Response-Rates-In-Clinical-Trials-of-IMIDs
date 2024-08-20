@@ -6,7 +6,7 @@ Authors: Andreas Kerschbaumer&sup1;; Marlene Steiner&sup1;; Pascale Pruckner&sup
 &sup3; Vienna University of Economics and Business Vienna, Austria
 
 ## Project Overview
-This repository contains supplementary files for the original manuscript entitled "Global Recruiting Patterns Affect Placebo Response Rates In Clinical Trials of Immune Mediated Inflammatory Diseases". Our study analyzes data from 274 randomized controlled trials across multiple diseases, exploring the association between socioeconomic factors and placebo response rates.
+This repository contains supplementary files for the original manuscript entitled "Global Recruiting Patterns Affect Placebo Response Rates In Clinical Trials of Immune Mediated Inflammatory Diseases". Our study analyzes data from 273 randomized controlled trials across multiple diseases, exploring the association between socioeconomic factors and placebo response rates.
 
 ## Repository Content
 This repository hosts database literature search files used in our study. The files correspond to the specific databases consulted during our research:
